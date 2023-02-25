@@ -72,7 +72,7 @@ mealsDetails.innerHTML = `
 
 }
 
-loadMeals('rice');
+loadMeals('chi');
 
 
 
